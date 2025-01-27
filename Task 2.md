@@ -1,11 +1,11 @@
 
 This week is about performing a series of Linux Administrative Tasks.
 
-1) First of all I created a directory named `my_project` and navigated into it.
+1) First of all I created a directory named `my_project` and navigated into it using the `cd` command.
 
 ![Screenshot](assets/screenshot_2025-01-21_19-51-56.png)
 
-2) Then created an empty file named `notes.txt` :
+2) Then created an empty file named `notes.txt` using the `touch` command:
 
 ![Screenshot](assets/screenshot_2025-01-21_19-54-02.png)
 
