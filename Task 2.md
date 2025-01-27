@@ -19,7 +19,7 @@ This week is about performing a series of Linux Administrative Tasks.
 
 5) For Step 5, I will be creating a` script.sh` shell file, and I made it executable using the `chmod` command and set its permissions to be readable and executable only by the file owner: 
 
-![Screenshot](assets/screenshot_2025-01-21_20-06-33.png
+![Screenshot](assets/screenshot_2025-01-21_20-06-33.png)
 
 More Info, Here:
 
