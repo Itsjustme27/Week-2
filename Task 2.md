@@ -84,7 +84,7 @@ As you can see, there is connectivity, as the domain `google.com` is sending us 
 
 ### Adding new user using `adduser`:
 
-![Screenshot](assets/screenshot_2025-01-21_20-38-55.png
+![Screenshot](assets/screenshot_2025-01-21_20-38-55.png)
 
 
 ### Switching to `testuser` :
